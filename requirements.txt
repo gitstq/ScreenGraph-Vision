@@ -1,0 +1,18 @@
+# ScreenGraph-Vision - 轻量级终端屏幕截图智能分析引擎
+# Zero-Dependency Version (Pure Python Standard Library)
+
+# 仅使用Python标准库，无外部依赖
+# 本文件仅用于文档说明，无需安装任何包
+
+# 如需使用增强功能（可选），可安装以下依赖：
+# pillow>=9.0.0  # 图片处理（可选）
+# numpy>=1.21.0  # 数值计算（可选）
+
+# 核心功能完全依赖Python标准库：
+# - urllib.request: HTTP请求
+# - json: JSON处理
+# - base64: Base64编码
+# - os/sys/re: 标准库工具
+# - tempfile: 临时文件
+# - subprocess: 截图命令执行
+# - struct/zlib: 图片处理
